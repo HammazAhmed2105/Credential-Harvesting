@@ -1,5 +1,5 @@
 # Credential-Harvesting
-<h2>LAb Objective</h2>
+<h2>Lab Objective</h2>
 Learn how to harvest credentials by utilizing a cloned site
 <h2>Lab Tool</h2>
 Kali linux in Virtual Machine
