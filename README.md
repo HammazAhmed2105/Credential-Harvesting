@@ -22,3 +22,9 @@ Enter the Ip address and then the web address of the site you wanna clone. I am 
 <img src="https://i.imgur.com/zIuXP0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <h3>Step- 6 Finally, go back to the terminal where SET is running. You will see lots of text from the numerous POST requests being sent from the cloned site. Scroll down until you see the values username and password. You should be able to see the username and password you entered into the cloned site in cleartext.</h3>
 <img src="https://i.imgur.com/ezohMqz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<h2>References</h2>
+
+https://trustedsec.com/resources/tools/the-social-engineer-toolkit-set
+https://ironscales.com/glossary/credential-harvesting#:~:text=Credential%20harvesting%2C%20also%20known%20as,or%20malware%20but%20not%20always.
+
