@@ -17,6 +17,8 @@ Download the tool on your kali linux - git clone https://github.com/trustedsec/s
 <H3>Step 4 – Now we have to enter our local machine(Kali linux in this instance) IP address. If you don’t know it then open a new terminal and type “ifconfig”. 
 Enter the Ip address and then the web address of the site you wanna clone. I am using Instagram for this example. 
 </H3>
-<img src="https://i.imgur.com/IozFfxv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IozFfxv.png" height=80%" width="80%" alt="Disk Sanitization Steps"/>
 <h3>Step 5 -  Go back to any browser and type the IP entered in step 4. You will see a phished Facebook page. Any password and username entered here will go to your kali machine.</h3>
-<img src="https://i.imgur.com/zIuXP0W.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zIuXP0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Step- 6 Finally, go back to the terminal where SET is running. You will see lots of text from the numerous POST requests being sent from the cloned site. Scroll down until you see the values username and password. You should be able to see the username and password you entered into the cloned site in cleartext.</h3>
+<img src="https://i.imgur.com/ezohMqz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
