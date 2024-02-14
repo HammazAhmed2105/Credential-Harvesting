@@ -1,4 +1,4 @@
-# Credential-Harvesting
+# Hands-On Credential Harvesting Lab Using SEToolkit on Kali Linux
 <h2>Lab Objective</h2>
 Learn how to harvest credentials by utilizing a cloned site
 <h2>Lab Tool - Kali linux in Virtual Machine</h2>
