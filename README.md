@@ -11,3 +11,6 @@ Download the tool on your kali linux - git clone https://github.com/trustedsec/s
 <img src="https://i.imgur.com/HMOvawW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <h3>Step2 – Choose the following options one after another. Social Engineering Attacks > Website Attack Vectors > Credential Harvester Attack Method. Refer to the below image.</h3>
 <img src="https://i.imgur.com/3UZnvAc.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<h3>Step 3 - The next menu will ask you which method you want to choose to harvest a victim’s credentials. In this lab we will be cloning a site, so choose option 2.</h3>
+
+<img src="https://i.imgur.com/CXeOkfR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
