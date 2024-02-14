@@ -28,3 +28,7 @@ Enter the Ip address and then the web address of the site you wanna clone. I am 
 https://trustedsec.com/resources/tools/the-social-engineer-toolkit-set
 https://ironscales.com/glossary/credential-harvesting#:~:text=Credential%20harvesting%2C%20also%20known%20as,or%20malware%20but%20not%20always.
 
+Disclaimer: This lab is strictly for educational purposes. Users are advised not to engage in any unauthorized or malicious activities. The content and tools provided should be used responsibly and in accordance with ethical and legal standards. The creators and contributors do not endorse or encourage any form of cybercrime.
+
+<h1>© Hammaz Ahmed 2024. All rights reserved.
+</h1>
